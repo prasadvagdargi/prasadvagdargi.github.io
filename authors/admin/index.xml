@@ -1,26 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>/authors/admin/</link>
-    <description>Recent content on Academic</description>
+    <title>Prasad Vagdargi</title>
+    <link>https://prasadvagdargi.github.io/authors/admin/</link>
+    <description>Recent content on Prasad Vagdargi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
-	    <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://prasadvagdargi.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Prasad Vagdargi is a graduate student at I-STAR Lab in Johns Hopkins University, working at the intersection of Biomedical Engineering, Computer Science and Medical Robotics. His research interests include application of computer vision as a tool in the operating room, to support decision making and visualization of information. Another aspect of his work involves using developments in Deep Learning to predict the surgical outcome using multiple modalities of patient information.&lt;/p&gt;
-
-&lt;p&gt;Also a volunteer at Maryland SPCA, he is glad to help you find your perfect pet companion.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
