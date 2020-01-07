@@ -3,7 +3,60 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://prasadvagdargi.github.io/talk/spie_2020/</loc>
+    <lastmod>2020-02-15T14:20:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://prasadvagdargi.github.io/</loc>
+    <lastmod>2020-02-15T14:20:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://prasadvagdargi.github.io/talk/</loc>
+    <lastmod>2020-02-15T14:20:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://prasadvagdargi.github.io/tags/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://prasadvagdargi.github.io/tags/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://prasadvagdargi.github.io/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://prasadvagdargi.github.io/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://prasadvagdargi.github.io/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://prasadvagdargi.github.io/tags/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://prasadvagdargi.github.io/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://prasadvagdargi.github.io/coursework/</loc>
+  </url>
+  
+  <url>
+    <loc>https://prasadvagdargi.github.io/research/</loc>
   </url>
   
   <url>
@@ -19,23 +72,11 @@
   </url>
   
   <url>
-    <loc>https://prasadvagdargi.github.io/</loc>
-  </url>
-  
-  <url>
     <loc>https://prasadvagdargi.github.io/publication_types/</loc>
   </url>
   
   <url>
     <loc>https://prasadvagdargi.github.io/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>https://prasadvagdargi.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://prasadvagdargi.github.io/tags/</loc>
   </url>
   
 </urlset>
