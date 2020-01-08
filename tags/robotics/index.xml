@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robotics on Prasad Vagdargi</title>
+    <link>https://prasadvagdargi.github.io/tags/robotics/</link>
+    <description>Recent content in Robotics on Prasad Vagdargi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://prasadvagdargi.github.io/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CanIt4 - Collaborative robotic agent to play Connect4</title>
+      <link>https://prasadvagdargi.github.io/project/canit4/</link>
+      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://prasadvagdargi.github.io/project/canit4/</guid>
+      <description>&lt;p&gt;We were featured in &lt;a href=&#34;https://hub.jhu.edu/2018/05/15/robotics-demo-day/&#34;&gt;The Hub Report!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;As a part of Robot Systems Programming course along with Aalap Shah, I developed a robotic system based off of UR5 and ROS, which is capable of playing Connect 4 collaboratively with humans.&lt;/p&gt;
+&lt;p&gt;First, I designed and printed an articulated gripper for the UR5 to pick up and hold the yellow circular tokens vertically from a custom fixture. For the control pipeline, we used ROS and MoveIt library to plan between different keypoints of pick and place. A ROS publisher-subscriber pair continually operates in the backend, and the robot moves after a motion signal from the CV/AI subsystems.&lt;/p&gt;
+&lt;p&gt;For the vision, a webcam facing the board along with OpenCV was used to identify the coloured edges of the board by simple thresholding in HSV space. This was also used to detect which token was placed at which location in the board, used for the AI subsystem. This structure operates as another ROS publisher-subscriber pair running in the background. Finally, the AI subsystem uses the detected current game state to decide the best move to be taken against the human and signals the robot to complete it.&lt;/p&gt;
+&lt;p&gt;Since the game is finite space, the AI always wins against the human.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
